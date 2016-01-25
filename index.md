@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: index.html
 
 title: Nginx
 tagline: Investagación y estudio de rendimiento sobre el Servidor Web Nginx
