@@ -10,3 +10,5 @@ tagline: Investagación y estudio de rendimiento sobre el Servidor Web Nginx
 Realizaremos la instalación sobre Debian 8 'Jessie', usando los repositorios oficiales.
 
     # apt-get install ngix
+
+![Instalacion Nginx](/nginx/images/n01.png)
