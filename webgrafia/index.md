@@ -9,8 +9,8 @@ tagline: Investagación y estudio de rendimiento sobre el Servidor Web Nginx
 
 https://www.garron.me/es/articulos/wordpress/debian-nginx-php-fpm.html
 
-> Wordpress en Debian 8. Nginx - MySQL - PHP5-FPM
+_Wordpress en Debian 8. Nginx - MySQL - PHP5-FPM_
 
 http://nginx.org/en/docs/
 
-> Configuración.
+_Configuración._
