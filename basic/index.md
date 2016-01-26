@@ -26,10 +26,10 @@ La estructura de ficheros es la siguiente:
 
 Los ficheros ficheros y directorios principales son:
  
- * nginx.conf  que es el fichero de configuración principal, es decir, donde se encuentra la configuración del servidor web que afectaría a todos los virtualhost.
+...* nginx.conf  que es el fichero de configuración principal, es decir, donde se encuentra la configuración del servidor web que afectaría a todos los virtualhost.
  
- * El directorio sites-available es donde se encuentran los ficheros de configuración de cada virtualhost.
+...* El directorio sites-available es donde se encuentran los ficheros de configuración de cada virtualhost.
  
- * El directorio sites-enable es donde se encuentran los enlaces simbólicos a los ficheros de configuración de los virtualhost que están activos.
+...* El directorio sites-enable es donde se encuentran los enlaces simbólicos a los ficheros de configuración de los virtualhost que están activos.
 
 En Nginx no se pueden añadir nuevos módulos una vez instalado. Para ello, tendríamos que compilarlo con los módulos y luego volver a instalarlo.
