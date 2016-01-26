@@ -23,7 +23,7 @@ Editamos el fichero de configuración del Sitio Web y añadimos las siguientes l
 
 Reiniciamos el servicio de Nginx para actualizar los cambios realizados.
 
-# systemctl restart nginx.service
+    # systemctl restart nginx.service
 
 Comprobación de acceso al sitio.
 
