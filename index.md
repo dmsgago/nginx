@@ -5,9 +5,9 @@ title: Nginx
 tagline: Investagación y estudio de rendimiento sobre el Servidor Web Nginx
 ---
 
-### Contenidos
-
 ![Logo Nginx](/nginx/images/n10.png)
+
+### Contenidos
 
 [1. Introducción](intro)
 
