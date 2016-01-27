@@ -55,4 +55,4 @@ Reiniciamos los demonios Nginx y PHP5-FPM.
 
 Ya podemos instalar nuestras Aplicaciones Web en PHP.
 
-![Instalación Wordpress](/nginx/images/n03.png)
+![Instalación Wordpress](/nginx/images/n09.png)
