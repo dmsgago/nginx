@@ -7,6 +7,8 @@ tagline: Investagación y estudio de rendimiento sobre el Servidor Web Nginx
 
 ### Contenidos
 
+![Logo Nginx](/nginx/images/n10.png)
+
 [1. Introducción](intro)
 
 [2. Instalación](install)
