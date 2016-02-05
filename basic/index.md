@@ -32,4 +32,3 @@ Los ficheros ficheros y directorios principales son:
  
  * El directorio sites-enable es donde se encuentran los enlaces simbólicos a los ficheros de configuración de los virtualhost que están activos.
 
-En Nginx no se pueden añadir nuevos módulos una vez instalado. Para ello, tendríamos que compilarlo con los módulos y luego volver a instalarlo.
