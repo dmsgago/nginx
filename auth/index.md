@@ -43,4 +43,4 @@ Editamos el fichero de configuración del sitio web *"/etc/nginx/sites-available
             allow 172.22.0.0/16;
 	    allow 127.0.0.1;
 	    deny  all;
-	}
+        }
