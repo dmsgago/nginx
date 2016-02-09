@@ -15,11 +15,11 @@ La comparación de rendimiento se realizará sobre 2 máquinas Debian, sirviendo
 
 #### Carga Baja
 
-#####APACHE 2.4
+##### APACHE 2.4
 
 ![Event carga baja](/nginx/images/n06.png)
 
-#####NGINX
+##### NGINX
 
 ![Nginx carga baja](/nginx/images/n03.png)
 
@@ -32,11 +32,11 @@ La comparación de rendimiento se realizará sobre 2 máquinas Debian, sirviendo
 
 #### Carga Media
 
-#####APACHE 2.4
+##### APACHE 2.4
 
 ![Event carga media](/nginx/images/n07.png)
 
-#####NGINX
+##### NGINX
 
 ![Nginx carga media](/nginx/images/n04.png)
 
@@ -49,11 +49,11 @@ La comparación de rendimiento se realizará sobre 2 máquinas Debian, sirviendo
 
 #### Carga Alta
 
-#####APACHE 2.4
+##### APACHE 2.4
 
 ![Event carga alta](/nginx/images/n08.png)
 
-#####NGINX
+##### NGINX
 
 ![Nginx carga alta](/nginx/images/n05.png)
 

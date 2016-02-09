@@ -5,7 +5,7 @@ title: Nginx
 tagline: Investagación y estudio de rendimiento sobre el Servidor Web Nginx
 ---
 
-### Autenticación y Control de Acceso
+### Autenticación
 
 Instalamos las utilidades de Apache, para posteriormente usar *htpasswd* para generar las credenciales de los usuarios con permiso de autenticación.
 
@@ -32,3 +32,15 @@ Comprobación de acceso al sitio.
 #### Digest
 
 Aunque no permite esta funcionalidad por defecto, Nginx ofrece la posibilidad de instalar el módulo [ngx_http_auth_digest](https://www.nginx.com/resources/wiki/modules/auth_digest/) para implementarla.
+
+### Control de Acceso
+
+Editamos el fichero de configuración del sitio web *"/etc/nginx/sites-available/default"* y añadimos las siguientes líneas.
+
+    # emacs /etc/nginx/sites-available/default
+        location / {
+	    deny  10.0.0.0/24;
+            allow 172.22.0.0/16;
+	    allow 127.0.0.1;
+	    deny  all;
+	}
