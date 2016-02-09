@@ -39,8 +39,8 @@ Editamos el fichero de configuración del sitio web *"/etc/nginx/sites-available
 
     # emacs /etc/nginx/sites-available/default
         location / {
-	    deny  10.0.0.0/24;
-            allow 172.22.0.0/16;
-	    allow 127.0.0.1;
-	    deny  all;
+		 deny  10.0.0.0/24;
+		 allow 172.22.0.0/16;
+		 allow 127.0.0.1;
+		 deny  all;
         }
